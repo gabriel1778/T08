@@ -1,0 +1,5 @@
+bin\Debug\Repository.dll
+bin\Debug\Repository.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Repository.dll
+obj\Debug\Repository.pdb

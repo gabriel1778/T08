@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FrameworkTest.exe
+obj\Debug\FrameworkTest.pdb
+bin\Debug\FrameworkTest.exe.config
+bin\Debug\FrameworkTest.exe
+bin\Debug\FrameworkTest.pdb
+bin\Debug\Repository.dll
+bin\Debug\Repository.pdb
+bin\Debug\FrameworkTest.exe.manifest
+bin\Debug\FrameworkTest.application
+obj\Debug\FrameworkTest.TrustInfo.xml
+obj\Debug\FrameworkTest.exe.manifest
+obj\Debug\FrameworkTest.application

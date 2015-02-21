@@ -1,0 +1,16 @@
+bin\Debug\TPEncuestaWin.exe.config
+bin\Debug\TPEncuestaWin.exe.manifest
+bin\Debug\TPEncuestaWin.application
+bin\Debug\TPEncuestaWin.exe
+bin\Debug\TPEncuestaWin.pdb
+bin\Debug\Repository.dll
+bin\Debug\Repository.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TPEncuestaWin.FrmMain.resources
+obj\Debug\TPEncuestaWin.Properties.Resources.resources
+obj\Debug\TPEncuestaWin.csproj.GenerateResource.Cache
+obj\Debug\TPEncuestaWin.TrustInfo.xml
+obj\Debug\TPEncuestaWin.exe.manifest
+obj\Debug\TPEncuestaWin.application
+obj\Debug\TPEncuestaWin.exe
+obj\Debug\TPEncuestaWin.pdb
