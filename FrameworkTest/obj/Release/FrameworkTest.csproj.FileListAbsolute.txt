@@ -1,0 +1,13 @@
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\FrameworkTest.exe.config
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\FrameworkTest.exe.manifest
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\FrameworkTest.application
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\FrameworkTest.exe
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\FrameworkTest.pdb
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\Repository.dll
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\bin\Release\Repository.pdb
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\FrameworkTest.TrustInfo.xml
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\FrameworkTest.exe.manifest
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\FrameworkTest.application
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\FrameworkTest.exe
+C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\FrameworkTest\obj\Release\FrameworkTest.pdb
