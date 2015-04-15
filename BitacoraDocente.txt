@@ -1,7 +1,11 @@
-<21/02/2015 Informe Inicial>
+﻿<21/02/2015 Informe Inicial>
 Bitacora de novedades e informacion importante de los docentes a los alumnos.
 Revisar periodicamente, especialmente si tienen asignadas tareas semanales
+<<<<<<< HEAD
 <------------------------->
 
 trest
-prueba de edición
+prue
+=======
+<------------------------->
+>>>>>>> parent of 8bdbfb8... Update BitacoraDocente.txt
