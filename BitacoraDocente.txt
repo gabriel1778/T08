@@ -1,11 +1,6 @@
-﻿<21/02/2015 Informe Inicial>
+﻿<19/04/2015 Enlace al programa y trabajo practico (No definitivo)>
+http://1drv.ms/1DB5lkX
+<21/02/2015 Informe Inicial>
 Bitacora de novedades e informacion importante de los docentes a los alumnos.
 Revisar periodicamente, especialmente si tienen asignadas tareas semanales
-<<<<<<< HEAD
-<------------------------->
 
-trest
-prue
-=======
-<------------------------->
->>>>>>> parent of 8bdbfb8... Update BitacoraDocente.txt
