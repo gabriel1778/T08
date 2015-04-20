@@ -1,4 +1,32 @@
-﻿<19/04/2015 Enlace al programa y trabajo practico (No definitivo)>
+﻿<20/04/2015 Algoritmo de encripcion simetrico>
+Lo desarrolle yo en tiempo record, es para evitar hacer uso de las clases de 
+.net que llevaria mas tiempo explicar y todavia no se han visto muchos temas.
+Clave interna es la palabra secreta de encripcion. Me hacen acordar que les explique porque este metodo
+de encripcion es inseguro.
+Por favor probar!!!
+
+
+    private string SimEncrypt(string originalString)
+    {
+
+        StringBuilder inSb = new StringBuilder(originalString);
+        StringBuilder outSb = new StringBuilder(originalString.Length);
+
+        char c;
+
+        for (int i = 0; i < originalString.Length; i++)
+        {
+            c = inSb[i];
+            c = (char)(c ^ (char)ClaveInterna[(i+4)%4]);
+            outSb.Append(c);
+
+        }
+
+        return outSb.ToString();
+
+    }
+
+<19/04/2015 Enlace al programa y trabajo practico (No definitivo)>
 http://1drv.ms/1DB5lkX
 <21/02/2015 Informe Inicial>
 Bitacora de novedades e informacion importante de los docentes a los alumnos.
