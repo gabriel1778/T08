@@ -13,7 +13,7 @@ namespace FrameworkTest {
 
         Console.Read();
 
-   
+ 
         Usuario u = new Usuario();
         u.Login = "abc";
         u.Password = "abc";
@@ -27,6 +27,7 @@ namespace FrameworkTest {
         if (u.isvalidpassword("abc") == false) {
             Console.WriteLine("ERROR!");
         }
+ 
         Console.ReadKey();
 
 
