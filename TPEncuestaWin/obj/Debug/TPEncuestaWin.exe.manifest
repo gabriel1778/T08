@@ -57,14 +57,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="4096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="5120">
       <assemblyIdentity name="Repository" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zj8hk6i/wRjbSG7zZp5Y3LNqRKg=</dsig:DigestValue>
+        <dsig:DigestValue>+V5OSf4394Sv3GqibjFBq3s/djI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -76,7 +76,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2mdo7jfsa/l5D7Wrwwb4CJKpgM4=</dsig:DigestValue>
+        <dsig:DigestValue>X3PyqX/pWC046yBVyIt1gxyL1zQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

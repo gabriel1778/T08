@@ -57,26 +57,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FrameworkTest.exe" size="5120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FrameworkTest.exe" size="5632">
       <assemblyIdentity name="FrameworkTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>N01/wfxF1lTAI04/Vg4MD0w4YTM=</dsig:DigestValue>
+        <dsig:DigestValue>GoZW5j6NEpBuL5z36o7UR6W6Ewk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="4096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="5120">
       <assemblyIdentity name="Repository" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zj8hk6i/wRjbSG7zZp5Y3LNqRKg=</dsig:DigestValue>
+        <dsig:DigestValue>+V5OSf4394Sv3GqibjFBq3s/djI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

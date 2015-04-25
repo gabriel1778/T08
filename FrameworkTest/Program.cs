@@ -14,10 +14,19 @@ namespace FrameworkTest {
         Console.Read();
 
 
-        Demo de = new Demo();
-        de.MyProperty1 = 7;
-        Console.WriteLine(de.MyProperty1.ToString());
+        Usuario u = new Usuario();
+        u.Login = "abc";
+        u.Password = "abc";
+        u.Nombre = "dsadas";
 
+        if (u.isvalidpassword("aaa") == true) {
+            Console.WriteLine("ERROR!");
+        }
+
+
+        if (u.isvalidpassword("abc") == false) {
+            Console.WriteLine("ERROR!");
+        }
 
         Console.ReadKey();
 

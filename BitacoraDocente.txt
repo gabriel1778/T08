@@ -5,9 +5,6 @@ Clave interna es la palabra secreta de encripcion. Me hacen acordar que les expl
 de encripcion es inseguro.
 Por favor probar!!!
 
-Dos comentarios, 
-1.Se deduce del código que la palabra secreta tiene que tener 4 caracteres y la password 4 como minimo
-2.No tengan miedo de subir el código intermedio aunque no este terminado. Esta vez el corte lo hacemos el sábado.
 
     private string SimEncrypt(string originalString)
     {
