@@ -12,7 +12,7 @@ namespace FrameworkTest {
 
 
         Console.Read();
-
+        /*
    
         Usuario u = new Usuario();
         u.Login = "abc";
@@ -29,6 +29,7 @@ namespace FrameworkTest {
         }
         Console.ReadKey();
 
+        */
 
     }
   }

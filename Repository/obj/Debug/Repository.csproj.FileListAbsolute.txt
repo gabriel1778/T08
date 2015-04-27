@@ -3,3 +3,8 @@ C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\Repository\bin\D
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\Repository\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\Repository\obj\Debug\Repository.dll
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\Repository\obj\Debug\Repository.pdb
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\bin\Debug\Repository.dll
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\bin\Debug\Repository.pdb
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\Repository.dll
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\Repository.pdb

@@ -14,3 +14,19 @@ C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\TPEncuestaWin\ob
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.TrustInfo.xml
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.exe.manifest
 C:\Users\Pablo\SkyDrive\Documentos\UNLAM\TCP_CSharp\2015 C1\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.application
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\TPEncuestaWin.exe.config
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\TPEncuestaWin.exe.manifest
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\TPEncuestaWin.application
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\TPEncuestaWin.exe
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\TPEncuestaWin.pdb
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\Repository.dll
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\bin\Debug\Repository.pdb
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.FrmMain.resources
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.Properties.Resources.resources
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.csproj.GenerateResource.Cache
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.TrustInfo.xml
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.exe.manifest
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.application
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.exe
+C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\TPEncuestaWin\obj\Debug\TPEncuestaWin.pdb
