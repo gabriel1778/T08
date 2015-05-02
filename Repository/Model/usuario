@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Repository.Loginypassword;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Read();
+            Login u = new Login();
+            u.User = "robertoGar";
+            u.Nombre = "Roberto Garcia";
+            u.Password = "white";
+            if(u.isvalidpassword("white")==false)
+            {
+                Console.WriteLine("ERROR!");
+            }
+            Console.ReadKey();
+        }
+    }
+}
