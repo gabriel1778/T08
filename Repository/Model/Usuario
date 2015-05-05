@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Repository.Model.Loginypassword
 {
-    public class Login
+    public class Usuario
     {
-        private string user;
+        private string login;
         private string password;
         private string nombre;
         private string claveinterna = "dummysystem";
@@ -33,20 +33,20 @@ namespace Repository.Model.Loginypassword
 
 
        
-           public string User
+           public string Login
         {
             set
             {
                 if (value.Length > 20)
                 {
-                    user = value.Substring(0, 20);
+                    login = value.Substring(0, 20);
                 }
                 else
                 {
-                    user = value;
+                    login = value;
                 }
             }
-            get { return user; }
+            get { return login; }
         }
 
 
