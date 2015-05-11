@@ -8,3 +8,8 @@ C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\bin\Debug\Reposito
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\Repository.dll
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\Repository\obj\Debug\Repository.pdb
+C:\Users\German\Desktop\Progra\T08\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\German\Desktop\Progra\T08\Repository\obj\Debug\Repository.dll
+C:\Users\German\Desktop\Progra\T08\Repository\obj\Debug\Repository.pdb
+C:\Users\German\Desktop\Progra\T08\Repository\bin\Debug\Repository.dll
+C:\Users\German\Desktop\Progra\T08\Repository\bin\Debug\Repository.pdb
