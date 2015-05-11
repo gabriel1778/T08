@@ -24,3 +24,16 @@ C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\FrameworkTest\obj\Debug\Frame
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\FrameworkTest\obj\Debug\FrameworkTest.application
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\FrameworkTest\obj\Debug\FrameworkTest.exe
 C:\Users\laboratorios.UNLMLAB\Documents\GitHub\T08\FrameworkTest\obj\Debug\FrameworkTest.pdb
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\FrameworkTest.exe.config
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\FrameworkTest.exe
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\FrameworkTest.pdb
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\FrameworkTest.exe.manifest
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\FrameworkTest.application
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\FrameworkTest.exe
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\FrameworkTest.pdb
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\Repository.dll
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\bin\Debug\Repository.pdb
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\FrameworkTest.TrustInfo.xml
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\FrameworkTest.exe.manifest
+C:\Users\German\Desktop\Progra\T08\FrameworkTest\obj\Debug\FrameworkTest.application
